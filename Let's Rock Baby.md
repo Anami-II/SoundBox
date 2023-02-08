@@ -137,7 +137,7 @@
 1. Tihuana - Que Ves
 1. Vitor Kley - Adrenalizou
 
-## Bandas
+<h1 align="center">Bandas</h1>
 
 ### Internacionais
 
