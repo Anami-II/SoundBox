@@ -195,7 +195,7 @@
 ### Nacionais
 
 1. Ana Vitória
-1. Analua
+1. Armandinho
 1. Charlie Brown Jr.
 1. Detonautas
 1. Jota Quest
