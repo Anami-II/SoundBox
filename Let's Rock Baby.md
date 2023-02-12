@@ -18,6 +18,8 @@
 1. AC⚡DC - Rock 'n' Roll Train 🚂🤘
 1. AC⚡DC - TNT 🧨
 1. AC⚡DC - You Shook Me All Night Long
+1. Alice In Chains - Man in the Box
+1. Alice In Chains - Them Bones
 1. Arctic Monkeys - Do I Wanna Know
 1. Audioslave - Be Yourself
 1. Audioslave - Like Stone 🪨
@@ -31,6 +33,7 @@
 1. 🦅 Eagles 🦅 - Hotel California 🏖️🏨🌴
 1. Eric Clapton - Cocaine
 1. Europe - The Final Countdown
+1. 🛸 Foo Fighters 🛸 - Arlandria
 1. 🛸 Foo Fighters 🛸 - Monkey Wrench
 1. 🛸 Foo Fighters 🛸 - Time Like These
 1. 🛸 Foo Fighters 🛸 - Walk
@@ -42,6 +45,14 @@
 1. Guns N' Roses - Sweet Child O' Mine
 1. Imagine Dragons - 😈 Demons 😈
 1. Imagine Dragons - Radioactive ☢️
+1. Iron Maiden - 2 Minutes To Midnight
+1. Iron Maiden - Aces High
+1. Iron Maiden - Blood Brothers
+1. Iron Maiden - Fear Of The Dark
+1. Iron Maiden - Hallowed By The Name
+1. Iron Maiden - The Trooper
+1. Iron Maiden - Wasting Love
+1. John Denver - Take Me Home, Country Roads
 1. Johnny Cash - Hurt
 1. Kansas - Carry on Wayward Son
 1. Kansas - Dust In The Wind
@@ -101,6 +112,7 @@
 1. The Cranberries - Linger
 1. The Cranberries - Zombie
 1. The Neighbourhood - Sweater Weather
+1. Wolfmother - Mother
 
 ### Nacionais
 
@@ -143,6 +155,7 @@
 
 1. 4 Non Blondes
 1. AC⚡DC
+1. Alice In Chains
 1. Arctic Monkeys
 1. Audioslave
 1. 🦇💀 Avenged Sevenfold 💀🦇
@@ -158,6 +171,8 @@
 1. Green Day 
 1. Guns N' Roses
 1. Imagine Dragons
+1. Iron Maiden
+1. John Denver
 1. Johnny Cash
 1. Kansas
 1. Katy Parry
@@ -191,6 +206,7 @@
 1. The Calling
 1. The Cranberries
 1. The Neighbourhood
+1. Wolfmother
 
 ### Nacionais
 
