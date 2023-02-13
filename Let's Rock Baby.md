@@ -10,11 +10,20 @@
 
 ## Internacionais
 
+1. 3 Doors Down - Living In Your Hell
+1. 3 Doors Down - Love Is A Lie
+1. 3 Doors Down - Here Without You
+1. 3 Doors Down - It's Not My Time
+1. 3 Doors Down - Kryptonite
+1. 3 Doors Down - So I Need You
+1. 3 Doors Down - Ticket To Heaven
+1. 3 Doors Down - When I'm Gone
+1. 3 Doors Down - When You're Young
 1. 4 Non Blondes - Whats's Up
 1. AC⚡DC - Back In Black
 1. AC⚡DC - Highway To Hell 😈🔥🚗
 1. AC⚡DC - Hells Bells 🔔😈🔥
-1. AC⚡DC - Jailbreak 
+1. AC⚡DC - Jailbreak
 1. AC⚡DC - Rock 'n' Roll Train 🚂🤘
 1. AC⚡DC - TNT 🧨
 1. AC⚡DC - You Shook Me All Night Long
@@ -23,7 +32,18 @@
 1. Arctic Monkeys - Do I Wanna Know
 1. Audioslave - Be Yourself
 1. Audioslave - Like Stone 🪨
+1. 🦇💀 Avenged Sevenfold 💀🦇 - Afterlife
+1. 🦇💀 Avenged Sevenfold 💀🦇 - Bat Country
+1. 🦇💀 Avenged Sevenfold 💀🦇 - Betrayed
+1. 🦇💀 Avenged Sevenfold 💀🦇 - Blinded In Chains
+1. 🦇💀 Avenged Sevenfold 💀🦇 - Buried Alive
+1. 🦇💀 Avenged Sevenfold 💀🦇 - Dear God
+1. 🦇💀 Avenged Sevenfold 💀🦇 - Hail To The King
+1. 🦇💀 Avenged Sevenfold 💀🦇 - Nightmare
+1. 🦇💀 Avenged Sevenfold 💀🦇 - Seize The Day
 1. 🦇💀 Avenged Sevenfold 💀🦇 - So Far Away
+1. 🦇💀 Avenged Sevenfold 💀🦇 - Unholy Confession
+1. 🦇💀 Avenged Sevenfold 💀🦇 - Welcome To The Family
 1. Avicii - Wake Me Up
 1. Blink 182 - Adam's Song
 1. Blink 182 - All The Small Things
@@ -41,11 +61,6 @@
 1. Bruno Mars - The Lazy Song
 1. Coldplay - The Scientist 👨‍🔬
 1. Coldplay - Yellow
-1. CPM22 - Dias Atrás
-1. CPM22 - Irreversível
-1. CPM22 - Não Sei Viver Sem Ter Você
-1. CPM22 - O Mundo Da Voltas
-1. CPM22 - Um Minuto Para O Fim Do Mundo
 1. Cream - Sunshine Of Your Love
 1. Creed - One Last Breath
 1. Creedence Clearwater Revival - Proud Mary
@@ -58,10 +73,19 @@
 1. 🛸 Foo Fighters 🛸 - Monkey Wrench
 1. 🛸 Foo Fighters 🛸 - Time Like These
 1. 🛸 Foo Fighters 🛸 - Walk
-1. 🛸 Foo Fighters 🛸 - Wheels 
+1. 🛸 Foo Fighters 🛸 - Wheels
+1. Ghost - Call Me Little Sunshine
+1. Ghost - Dance Macabre
+1. Ghost - Mary On A Cross
+1. Ghost - Rats
+1. Ghost - Square Hammer
+1. Green Day - American Idiot
 1. Green Day - 21 Guns
+1. Green Day - Basket Case
 1. Green Day - Boulevard Of Broken Dreans
 1. Green Day - Holiday
+1. Green Day - Know Your Enemy
+1. Green Day - Wake Me Up When September Ends
 1. Guns N' Roses - Knockin' On Heaven's Door
 1. Guns N' Roses - Sweet Child O' Mine
 1. Imagine Dragons - 😈 Demons 😈
@@ -105,13 +129,30 @@
 1. Mötley Crüe - Shout At The Devil
 1. Nightwish - Nemo
 1. Nirvana - Come As You Are
+1. Nirvana - Heart-Shaped Box
 1. Nirvana - Smell Like Teen Spirit
 1. Nirvana - The Man Who Sold The World
 1. Oasis - Wonderwall
 1. OneRepublic - Counting Stars
 1. Panic! At The Disco - I Write Sins Not Tragedies
 1. Panic! At The Disco - The Ballad Of Mona Lisa
+1. Papa Roach - Alive
+1. Papa Roach - Between Angels And Insects
+1. Papa Roach - Blood Brothers
+1. Papa Roach - Between Angels And Insects
+1. Papa Roach - Forever
+1. Papa Roach - Getting Away With Murder
 1. Papa Roach - Help
+1. Papa Roach - Hollywood Whore
+1. Papa Roach - Last Resort
+1. Papa Roach - Lifeline
+1. Papa Roach - No Matter What
+1. Papa Roach - Not Listening
+1. Papa Roach - Not The Only One
+1. Papa Roach - Scars
+1. Papa Roach - She Loves Me Not
+1. Papa Roach - Time Is Running Out
+1. Papa Roach - To Be Loved
 1. Paramore - Decode
 1. Paramore - Misery Business
 1. Pearl Jam - Alive
@@ -147,6 +188,14 @@
 1. The Offspring - Self Esteen
 1. The Offspring - The Kids Aren't Alright
 1. The Offspring - You're Gonna Go Far, Kid
+1. The Outfield - Your Love
+1. The Stokes - Heart In a Cage
+1. The Stokes - Last Nite
+1. The Stokes - Reptila
+1. The Stokes - Some Day
+1. The Stokes - The Adults Are Talking
+1. The Stokes - Under Cover Of Darkness
+1. The Stokes - You Only Live Once
 1. Wolfmother - Mother
 
 ### Nacionais
@@ -164,7 +213,13 @@
 1. Charlie Brown Jr. - Ela Vai Voltar
 1. Charlie Brown Jr. - Longe De Você
 1. Charlie Brown Jr. - Só Os Loucos Sabem
+1. CPM22 - Dias Atrás
+1. CPM22 - Irreversível
+1. CPM22 - Não Sei Viver Sem Ter Você
+1. CPM22 - O Mundo Da Voltas
+1. CPM22 - Um Minuto Para O Fim Do Mundo
 1. Darvin - Pensa Em Mim
+1. Dazaranha - Saiu Da Vida Torta
 1. Detonautas - O Inferno São Os Outros
 1. Detonautas - Olhos Certos
 1. Detonautas - Outro Lugar
@@ -255,6 +310,7 @@
 
 ### Internacionais
 
+1. 3 Doors Down
 1. 4 Non Blondes
 1. AC⚡DC
 1. Alice In Chains
@@ -275,6 +331,7 @@
 1. Europe
 1. Fleetwood Mac
 1. 🛸 Foo Fighters 🛸
+1. Ghost
 1. Green Day
 1. Guns N' Roses
 1. Imagine Dragons
@@ -299,7 +356,7 @@
 1. Panic! At The Disco
 1. Papa Roach
 1. Paramore
-1. Pearl Jam 
+1. Pearl Jam
 1. Pink Floyd
 1. Queens of Stone Age
 1. Ramones
@@ -312,12 +369,14 @@
 1. Steppenwolf
 1. Stone Sour
 1. Survivor
-1. Talking Headsw
+1. Talking Heads
 1. The Animals
 1. The Calling
 1. The Cranberries
 1. The Neighbourhood
 1. The Offspring
+1. The Outfield
+1. The Stokes
 1. Wolfmother
 
 ### Nacionais
@@ -330,6 +389,7 @@
 1. Charlie Brown Jr.
 1. CPM22
 1. Darvin
+1. Dazaranha
 1. Detonautas
 1. Engenheiros do Hawaii
 1. Gabriel O Pensador
