@@ -57,6 +57,7 @@
 1. Bob Marley - Redemption Song
 1. Bob Marley - Three Little Birds
 1. Bon Jovi - Livin' On A Prayer
+1. Bruce Dickinson - Tears Of The Dragon
 1. Bruno Mars - Talking To The Moon
 1. Bruno Mars - The Lazy Song
 1. Coldplay - The Scientist 👨‍🔬
@@ -321,6 +322,7 @@
 1. Blink 182
 1. Bob Marley - Three Little Birds
 1. Bon Jovi
+1. Bruce Dickinson
 1. Bruno Mars
 1. Coldplay
 1. Cream
