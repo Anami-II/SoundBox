@@ -69,6 +69,7 @@
 1. Eric Clapton - Cocaine
 1. Eric Clapton - Tears In Heaven
 1. Europe - The Final Countdown
+1. Fleetwood Mac - Dreams
 1. Fleetwood Mac - The Chain
 1. 🛸 Foo Fighters 🛸 - Arlandria
 1. 🛸 Foo Fighters 🛸 - Monkey Wrench
@@ -102,6 +103,7 @@
 1. Jason Mraz - Lucky
 1. John Denver - Take Me Home, Country Roads
 1. Johnny Cash - Hurt
+1. Journey - Don't Stop Believin'
 1. Kansas - Carry on Wayward Son
 1. Kansas - Dust In The Wind
 1. Katy Parry - I Kissed a Girl 
@@ -115,7 +117,10 @@
 1. Linkin Park - Castle Of Glass
 1. Linkin Park - In The End
 1. Linkin Park - Numb
+1. Linkin Park - One More Light
+1. Linkin Park - Shadow Of The Day
 1. Linkin Park - The Messenger
+1. Linkin Park - Whata I've Done
 1. Lynyrd Skynyrd - Simple Man
 1. Maroon 5 - Animals
 1. Maroon 5 - Beautiful Mistake
@@ -201,7 +206,16 @@
 
 ### Nacionais
 
+1. Armandinho - A Ilha
 1. Armandinho - Analua
+1. Armandinho - Lua Cheia
+1. Armandinho - O Justiceiro
+1. Armandinho - Outra Noite Que Se Vai
+1. Armandinho - Outra Vida
+1. Armandinho - Pescador
+1. Armandinho - Reggae Das Tramanda
+1. Armandinho - Semente
+1. Armandinho - Sol Loiro
 1. Cássia Eller - Malandragem
 1. Cássia Eller - O Segundo Sol
 1. Cássia Eller - Palavras Ao Vento
@@ -341,6 +355,7 @@
 1. Jason Mraz
 1. John Denver
 1. Johnny Cash
+1. Journey
 1. Kansas
 1. Katy Parry
 1. Kings Of Leon
