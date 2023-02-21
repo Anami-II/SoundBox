@@ -212,6 +212,7 @@
 1. The Stokes - The Adults Are Talking
 1. The Stokes - Under Cover Of Darkness
 1. The Stokes - You Only Live Once
+1. Warrant - Cherry Pie
 1. Wolfmother - Mother
 
 ### Nacionais
@@ -410,6 +411,7 @@
 1. The Offspring
 1. The Outfield
 1. The Stokes
+1. Warrant
 1. Wolfmother
 
 ### Nacionais
