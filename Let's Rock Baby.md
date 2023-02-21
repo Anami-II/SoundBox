@@ -45,6 +45,7 @@
 1. 🦇💀 Avenged Sevenfold 💀🦇 - Unholy Confession
 1. 🦇💀 Avenged Sevenfold 💀🦇 - Welcome To The Family
 1. Avicii - Wake Me Up
+1. Billie Eilish - Lovely
 1. Blink 182 - Adam's Song
 1. Blink 182 - All The Small Things
 1. Blink 182 - Feeling This
@@ -65,7 +66,11 @@
 1. Cream - Sunshine Of Your Love
 1. Creed - One Last Breath
 1. Creedence Clearwater Revival - Proud Mary
+1. Disturbed - Down With The Sickness
+1. Disturbed - Hold On To Memories
+1. Disturbed - The Sound Of Silence
 1. 🦅 Eagles 🦅 - Hotel California 🏖️🏨🌴
+1. Elvis Presley - Can't Help Falling In Love
 1. Eric Clapton - Cocaine
 1. Eric Clapton - Tears In Heaven
 1. Europe - The Final Countdown
@@ -90,8 +95,10 @@
 1. Green Day - Wake Me Up When September Ends
 1. Guns N' Roses - Knockin' On Heaven's Door
 1. Guns N' Roses - Sweet Child O' Mine
+1. Hozier - Take Me To Church
 1. Imagine Dragons - 😈 Demons 😈
 1. Imagine Dragons - Radioactive ☢️
+1. Imagine Dragons - Wrecked
 1. Iron Maiden - 2 Minutes To Midnight
 1. Iron Maiden - Aces High
 1. Iron Maiden - Blood Brothers
@@ -166,7 +173,9 @@
 1. Pearl Jam - Even Flow
 1. Pink Floyd - Another Brick In The Wall
 1. Pink Floyd - Wish You Were Here
+1. Pixies - Where Is My Mind?
 1. Queens of Stone Age - No One Knows
+1. Radiohead - Creep
 1. Ramones - Pet Sematary
 1. RHCP - Californication
 1. RHCP - 🪦 Otherside 👻
@@ -184,6 +193,7 @@
 1. Stone Sour - Wicked Game
 1. Survivor - The Eye Of The Tiger 🐯
 1. Talking Heads - Psycho Killer
+1. Tina Turner - Nutbush City Limitsovely
 1. The Animals - House Of The Rising Sun
 1. The Calling - Wherever You Will Go
 1. The Cranberries - Linger
@@ -333,6 +343,7 @@
 1. Audioslave
 1. 🦇💀 Avenged Sevenfold 💀🦇
 1. Avicii
+1. Billie Eilish
 1. Blink 182
 1. Bob Marley - Three Little Birds
 1. Bon Jovi
@@ -342,7 +353,9 @@
 1. Cream
 1. Creed
 1. Creedence Clearwater Revival
+1. Disturbed
 1. 🦅 Eagles 🦅
+1. Elvis Presley
 1. Eric Clapton
 1. Europe
 1. Fleetwood Mac
@@ -375,7 +388,9 @@
 1. Paramore
 1. Pearl Jam
 1. Pink Floyd
+1. Pixies
 1. Queens of Stone Age
+1. Radiohead
 1. Ramones
 1. RHCP
 1. Rige Against
@@ -387,6 +402,7 @@
 1. Stone Sour
 1. Survivor
 1. Talking Heads
+1. Tina Turner
 1. The Animals
 1. The Calling
 1. The Cranberries
