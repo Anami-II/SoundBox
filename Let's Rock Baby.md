@@ -27,6 +27,11 @@
 1. AC⚡DC - Rock 'n' Roll Train 🚂🤘
 1. AC⚡DC - TNT 🧨
 1. AC⚡DC - You Shook Me All Night Long
+1. Adele - Hello
+1. Adele - Rolling in the Deep
+1. Adele - Set Fire To The Rain
+1. Adele - Skyfall
+1. Adele - Someone Like You
 1. Alice In Chains - Man in the Box
 1. Alice In Chains - Them Bones
 1. Arctic Monkeys - Do I Wanna Know
@@ -140,6 +145,7 @@
 1. Mötley Crüe - Girls, Girls, Girls
 1. Mötley Crüe - Kickstart My Heart
 1. Mötley Crüe - Shout At The Devil
+1. Miley Cyrus - Wrecking Ball
 1. Nightwish - Nemo
 1. Nirvana - Come As You Are
 1. Nirvana - Heart-Shaped Box
@@ -339,6 +345,7 @@
 1. 3 Doors Down
 1. 4 Non Blondes
 1. AC⚡DC
+1. Adele
 1. Alice In Chains
 1. Arctic Monkeys
 1. Audioslave
@@ -380,6 +387,7 @@
 1. Metallica
 1. Mötley Crüe
 1. Muse
+1. Miley Cyrus
 1. Nightwish
 1. Nirvana
 1. Oasis
